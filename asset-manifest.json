@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Retroanime/static/css/main.ec582b50.css",
-    "main.js": "/Retroanime/static/js/main.9afbeacc.js",
+    "main.js": "/Retroanime/static/js/main.cc12d706.js",
     "index.html": "/Retroanime/index.html",
     "main.ec582b50.css.map": "/Retroanime/static/css/main.ec582b50.css.map",
-    "main.9afbeacc.js.map": "/Retroanime/static/js/main.9afbeacc.js.map"
+    "main.cc12d706.js.map": "/Retroanime/static/js/main.cc12d706.js.map"
   },
   "entrypoints": [
     "static/css/main.ec582b50.css",
-    "static/js/main.9afbeacc.js"
+    "static/js/main.cc12d706.js"
   ]
 }
